@@ -69,7 +69,7 @@ To add a new prompt:
 - [Claude](https://www.anthropic.com/claude) by Anthropic
 - [Gemini](https://gemini.google.com/) by Google
 - [ChatGPT](https://chat.openai.com/) by OpenAI
-- [Cline](https://github.com/cline/cline) (VSCode extension)
+- [Roo Code (prev. Roo Cline)](https://roocode.com/) (VSCode extension)
 
 ## License
 
