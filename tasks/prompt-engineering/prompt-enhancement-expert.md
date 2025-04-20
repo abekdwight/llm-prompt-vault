@@ -2,9 +2,6 @@
 title: "Prompt Enhancement Expert"
 description: "A specialized prompt for enhancing system development prompts"
 category: "prompt-engineering"
-author: ""
-date: "2025-04-21"
-tags: ["prompt-engineering", "system-development", "optimization"]
 models: ["all"]
 ---
 
