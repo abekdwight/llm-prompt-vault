@@ -20,9 +20,9 @@ llm-prompt-vault/
 │   ├── chatgpt/
 │   │   ├── system-prompts/  // System prompts for ChatGPT
 │   │   └── templates/       // ChatGPT-specific templates
-│   └── cline/
-│       ├── custom-instructions/ // Custom instructions for Cline
-│       └── templates/           // Cline-specific templates
+│   └── roo-code/
+│       ├── custom-instructions/ // Custom instructions for Roo Code
+│       └── templates/           // RooCode-specific templates
 │
 └── tasks/               // Task-specific prompts (usable across models)
     ├── writing/         // Content writing prompts
@@ -43,7 +43,7 @@ The `models` directory contains prompts that are optimized for specific LLM plat
 
 - **system-prompts**: Contains prompts that define the basic behavior and capabilities of the model
 - **templates**: Contains model-specific templates optimized for that particular LLM
-- **custom-instructions** (Cline only): Contains custom instructions for the Cline VSCode extension
+- **custom-instructions** (Roo Code only): Contains custom instructions for the Roo Code VSCode extension
 
 ### Task-Specific Prompts
 
